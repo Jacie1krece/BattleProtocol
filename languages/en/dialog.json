@@ -1,0 +1,35 @@
+{
+  "World.Find": "Found ",
+  "World.Get": "Received ",
+  "World.Team": " joins the team!",
+  "World.Key.Barricade": "This wooden barricade seems to require an axe to remove...",
+  "World.Key.Shrub": "This dead shrub seems to require an axe to remove...",
+  "World.Key.Barrel": "This broken barrel seems to require an axe to remove...",
+  "World.Key.Boulder": "This boulder seems to require a pickaxe to remove...",
+  "World.Key.Rubble": "This pile of rubble seems to require a pickaxe to remove...",
+  "World.Key.Crystal": "This crystal seems to require a hammer to remove...",
+  "World.Key.Ice": "This chunk of ice seems to require a hammer to remove...",
+  "World.Key.Lilypad": "I don't think I can walk on lilypads...",
+  "World.Key.Moss": "I don't think I can walk on algae...",
+  "World.Key.Poison": "I don't think I should walk through poison...",
+
+  "NPC.Innkeeper": "Innkeeper",
+  "NPC.Cook": "Cook",
+
+  "WoodyInn.Locked": "This isn't my room...",
+  "WoodyInn.Innkeeper.1": "Welcome, Ember, to the Woody Inn!",
+  "WoodyInn.Innkeeper.2": "I see that you already have a room assigned to you, and you don't have to return the key anytime soon.",
+  "WoodyInn.Innkeeper.3": "Also, you naturally restore when you're not battling. Though this cuts into my income as an innkeeper, it's at least convenient for you.",
+  "WoodyInn.Kitchen.1": "Hello! Would you like to order something?",
+  "WoodyInn.Kitchen.Adventure": "I'm going on an adventure!",
+  "WoodyInn.Kitchen.2": "An adventure, you say? Then, I can give you some supplies, free of charge.",
+  "WoodyInn.Kitchen.3": "Hope you have a good day!",
+  "WoodyInn.EmberRoom.1": "Wait, really? Is this place so dry of events they have to make a mountain out of a molehill?",
+  "WoodyInn.EmberRoom.2": "Like, sure, someone overtaking a castle is a big deal, but come on, it's not like the government is anywhere near there.",
+  "WoodyInn.EmberRoom.3": "But... wait. I faintly recognise that tyrant... I don't remember exactly, but I think that they're connected to my past.",
+  "WoodyInn.EmberRoom.4": "And I already got an less cliché reason to go for that adventure!",
+  "WoodyInn.EmberRoom.Tea1": "Ah, right, my tea. I was supposed to drink it yesterday, and I just forgot about it.",
+  "WoodyInn.EmberRoom.Tea2": "It's Flaming Potent Tea, so naturally it's still hot.",
+
+  "Woodhaven.Grocery": "Oh, hi, Ember! Do you want to buy some of my produce?"
+}
