@@ -414,7 +414,7 @@
   "Item.Steroid.Sachimi.MHP": "Rations",
   "Item.Steroid.Sachimi.MHP.Desc": "Military rations specifically provided for performance. Permanently increases Sachimi's MHP by 10 and MMP by 5.",
   "Item.Steroid.Sachimi.ATK": "Cereal",
-  "Item.Steroid.Sachimi.ATK.Desc": "One of the simpliest foods imaginable. Permanently increases Sachimi's ATK and DEF by 1.",
+  "Item.Steroid.Sachimi.ATK.Desc": "One of the simplest foods imaginable. Permanently increases Sachimi's ATK and DEF by 1.",
   "Item.Steroid.Sachimi.MAT": "Kibble",
   "Item.Steroid.Sachimi.MAT.Desc": "Some good-quality cat food. Sachimi doesn't really want to show that it's her favourite. Permanently increases Sachimi's MAT and MDF by 1.",
   "Item.Steroid.Sachimi.AGI": "Cake Roll",
@@ -434,7 +434,7 @@
   "Item.Steroid.Helpy.MAT": "Coolant",
   "Item.Steroid.Helpy.MAT.Desc": "A liquid that can cool off mechanical parts, when applied correctly of course. Permanently increases Helpy's MAT and MDF by 1.",
   "Item.Steroid.Helpy.AGI": "Machine Oil",
-  "Item.Steroid.Helpy.AGI.Desc": "It can be used in case of Helpy's motors being stuck, or other things needing some mainetance. Permanently increases Helpy's AGI and LUK by 1.",
+  "Item.Steroid.Helpy.AGI.Desc": "It can be used in case of Helpy's motors being stuck, or other things needing some maintenance. Permanently increases Helpy's AGI and LUK by 1.",
 
   "Item.EMat.Low.Physical": "Sharpened Metal",
   "Item.EMat.Low.Physical.Desc": "A piece of metal that's perfect for a sword. (Low-tier Physical Material)",

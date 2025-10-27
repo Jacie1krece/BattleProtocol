@@ -3,16 +3,16 @@
   "WorkspaceRootPath": "C:\\Users\\janch\\Documents\\RMMZ\\BattleProtocol\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\janch\\Documents\\RMMZ\\BattleProtocol\\languages\\en\\dialog.json||{3B902123-F8A7-4915-9F01-361F908088D0}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:languages\\en\\dialog.json||{3B902123-F8A7-4915-9F01-361F908088D0}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\janch\\Documents\\RMMZ\\BattleProtocol\\languages\\en\\battle.json||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:languages\\en\\battle.json||{3B902123-F8A7-4915-9F01-361F908088D0}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\janch\\Documents\\RMMZ\\BattleProtocol\\languages\\en\\item.json||{3B902123-F8A7-4915-9F01-361F908088D0}",
       "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:languages\\en\\item.json||{3B902123-F8A7-4915-9F01-361F908088D0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\janch\\Documents\\RMMZ\\BattleProtocol\\languages\\en\\battle.json||{3B902123-F8A7-4915-9F01-361F908088D0}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:languages\\en\\battle.json||{3B902123-F8A7-4915-9F01-361F908088D0}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\janch\\Documents\\RMMZ\\BattleProtocol\\languages\\en\\dialog.json||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:languages\\en\\dialog.json||{3B902123-F8A7-4915-9F01-361F908088D0}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\janch\\Documents\\RMMZ\\BattleProtocol\\languages\\en\\main.json||{3B902123-F8A7-4915-9F01-361F908088D0}",
@@ -26,7 +26,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Document",
@@ -36,7 +36,7 @@
               "RelativeDocumentMoniker": "languages\\en\\item.json",
               "ToolTip": "C:\\Users\\janch\\Documents\\RMMZ\\BattleProtocol\\languages\\en\\item.json",
               "RelativeToolTip": "languages\\en\\item.json",
-              "ViewState": "AgIAAEoCAAAAAAAAAAAUwGECAABWAAAAAAAAAA==",
+              "ViewState": "AgIAAFQBAAAAAAAAAAAAwKABAAAgAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
               "WhenOpened": "2025-10-19T22:22:46.483Z",
               "EditorCaption": ""
@@ -49,34 +49,36 @@
               "RelativeDocumentMoniker": "languages\\en\\main.json",
               "ToolTip": "C:\\Users\\janch\\Documents\\RMMZ\\BattleProtocol\\languages\\en\\main.json",
               "RelativeToolTip": "languages\\en\\main.json",
-              "ViewState": "AgIAAFYAAAAAAAAAAAAAAAcAAAANAAAAAAAAAA==",
+              "ViewState": "AgIAALQAAAAAAAAAAAAAAMMAAAAuAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-10-19T22:22:45.619Z"
+              "WhenOpened": "2025-10-19T22:22:45.619Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
               "Title": "dialog.json",
               "DocumentMoniker": "C:\\Users\\janch\\Documents\\RMMZ\\BattleProtocol\\languages\\en\\dialog.json",
               "RelativeDocumentMoniker": "languages\\en\\dialog.json",
               "ToolTip": "C:\\Users\\janch\\Documents\\RMMZ\\BattleProtocol\\languages\\en\\dialog.json",
               "RelativeToolTip": "languages\\en\\dialog.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAABNAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACAAAABBAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
               "WhenOpened": "2025-10-19T22:22:44.951Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 0,
               "Title": "battle.json",
               "DocumentMoniker": "C:\\Users\\janch\\Documents\\RMMZ\\BattleProtocol\\languages\\en\\battle.json",
               "RelativeDocumentMoniker": "languages\\en\\battle.json",
               "ToolTip": "C:\\Users\\janch\\Documents\\RMMZ\\BattleProtocol\\languages\\en\\battle.json",
               "RelativeToolTip": "languages\\en\\battle.json",
-              "ViewState": "AgIAAFYAAAAAAAAAAAAAABEAAAA7AAAAAAAAAA==",
+              "ViewState": "AgIAAB0AAAAAAAAAAAAAACkAAAAsAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-10-19T22:22:43.365Z"
+              "WhenOpened": "2025-10-19T22:22:43.365Z",
+              "EditorCaption": ""
             }
           ]
         }
