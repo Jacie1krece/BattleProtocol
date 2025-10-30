@@ -82,7 +82,7 @@
   "Weapon.Type.Shuriken": "Shuriken",
   "Weapon.Type.Staff": "Staff",
   "Weapon.Type.Cannon": "Cannon",
-  "Weapon.Type.Core": "Glove",
+  "Weapon.Type.Core": "Core",
   "Weapon.Type.Shield": "Shield",
 
   "Weapon.Starter.Ember": "Heatling Gloves",
@@ -576,8 +576,12 @@
 
   "Item.Key.Newspaper": "Newspaper",
   "Item.Key.Newspaper.Desc": "\"KillerBots continue their rampage! More info on Page 5!\"",
+  "Item.Key.Boots.Beam": "Ninja Boots",
+  "Item.Key.Boots.Beam.Desc": "Allows you to walk on thin beams without having to worry about falling off.",
   "Item.Key.Tool.Axe": "The Axe",
   "Item.Key.Tool.Axe.Desc": "Allows you to chop down wooden barricades.",
+  "Item.Key.Boots.Lilypad": "The Platform",
+  "Item.Key.Boots.Lilypad.Desc": "Allows you to walk over 1-tile gaps. Way safer than a stepladder.",
   "Item.Key.Tool.Pick": "The Pickaxe",
   "Item.Key.Tool.Pick.Desc": "Allows you to mine rubble blockades.",
   "Item.Key.Boots.Lilypad": "Water-walking Boots",
