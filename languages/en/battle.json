@@ -233,9 +233,23 @@
   "Skill.Hana.Tag.5": "Explosive Tag Nuke",
   "Skill.Hana.Tag.5.Desc": "Deals 200% Fire damage to one enemy and applies a paper bomb to all enemies, which will explode after 2 turns, dealing 225% Fire damage to them, scaled off their own ATK.",
   "Skill.Hana.Tag.Explode": "Explosion",
+  "Skill.Switch.Hana": "Ninja Stance",
+  "Skill.Switch.Hana.Desc": "Increases MP Regen by 5%, and decreases Mana Cost, ATK, and AGI by 5%. Can be toggled.",
+  "Skill.Switch.Jace": "Mage Stance",
+  "Skill.Switch.Jace.Desc": "Increases Mana Cost by 10%, and increases MAT by 15%. Can be toggled.",
+  "Skill.Switch.Sachimi": "Soldier Stance",
+  "Skill.Switch.Sachimi.Desc": "Increases HP Regen by 10%, and reduces AGI by 20%. Can be toggled.",
+  "Skill.Switch.Sylph": "Slime Stance",
+  "Skill.Switch.Sylph.Desc": "Increases LUK by 10%, and reduces AGI by 5%. Can be toggled.",
+  "Skill.Switch.Helpy": "Android Stance",
+  "Skill.Switch.Helpy.Desc": "Increases AGI by 25%, and decreases Mana Cost, ATK, and MAT by 20%. Can be toggled.",
 
-  "Ult.Ember": "Heat Overload",
-  "Ult.Ember.Desc": "Increases Body temperature by 10°, dealing high Fire damage to all enemies, while also applying Burn, Inferno, and a delay on them. <br>\"Now it's time for you to try how pure inferno feels like!\"",
+  "Ult.Hana.FiveSealThrow.1": "Five-Seal Throw",
+  "Ult.Hana.FiveSealThrow.1.Desc": "Ultimate: Throws 5 shurikens with different elements (Fire, Electricity, Water, Earth, and Wind) onto one target, with each dealing 125% Material damage of the corresponding element.",
+  "Ult.Hana.FiveSealThrow.2": "Five-Seal Throw+",
+  "Ult.Hana.FiveSealThrow.2.Desc": "Ultimate: Throws 5 shurikens with different elements (Fire, Electricity, Water, Earth, and Wind) onto one target, with each dealing 150% Material damage of the corresponding element.",
+  "Ult.Hana.FiveSealThrow.2": "Ten-Tailed Throw",
+  "Ult.Hana.FiveSealThrow.2.Desc": "Ultimate: Throws 10 shurikens with different elements (Physical, Fire, Ice, Electricity, Water, Earth, Wind, Star, Void, and Nature) onto one target, with each dealing 125% Material damage of the corresponding element.",
 
   "Enemy.KillerBot.Knight": "KillerBot Knight",
   "Enemy.KillerBot.Knight.Desc": "An ordinary KillerBot that uses a blade. They're great at single-target attacks, and solely uses Material damage.",
@@ -270,5 +284,5 @@
   "Enemy.Glitch.Small": "ß¿l´",
   "Enemy.Glitch.Small.Desc": "ERROR 404 ENEMY INFO NOT FOUND",
   "Enemy.Glitch.Glitch": "M=O8Ð¥ÇV7kSY",
-  "Enemy.Glitch.Glitch.Desc": "ERROR 0x45424635 ZZiZZeZZmZZwZZlZZiZZ ZZuZZnZZyZZ ZZnZZtZZtZZ ZZ ZFU1ayBNM0lnYiBWa2dOIFdzeGJn (![]+[])[!+[]+!+[]]+(!![]+[][(![]+[])[+!+[]]+(!![]+[])[+[]]])[+!+[]+[+[]]]+(![]+[])[!+[]+!+[]]"
+  "Enemy.Glitch.Glitch.Desc": "ERROR 0x45424635 'ZZiZZeZZmZZwZZlZZiZZ ZZuZZnZZyZZ ZZnZZtZZtZZ ZZ' ZFU1ayBNM0lnYiBWa2dOIFdzeGJn (![]+[])[!+[]+!+[]]+(!![]+[][(![]+[])[+!+[]]+(!![]+[])[+[]]])[+!+[]+[+[]]]+(![]+[])[!+[]+!+[]]"
 }
